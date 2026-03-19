@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
+import Card from './components/Card'
 import Test from './components/Demo'
-import Card from './components/card'
 
 function App() {
   // const [h5, setH5] = useState("Heading Number 1")
